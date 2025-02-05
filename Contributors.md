@@ -43,6 +43,7 @@
 - Manuel MG
 - [Anish Dusad](https://github.com/anishDusad)
 - SkMave
+- Cesar Matt Gaviria Sepulveda
 - [Sandip Patel)](https://github.com/slotify-dev)
 - [Abhijit Sahane](https://github.com/AbhiSahane0)
 - [Youssef Sayed](https://github.com/Youssehf)
